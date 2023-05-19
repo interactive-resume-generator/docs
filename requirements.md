@@ -19,19 +19,50 @@ IN - What will your product do
 - This app will allow for hiring personnel to have fun and easily get through resumes
 - This app will give job seeker's more of a personality vs. a bland templated white document resume
 - This app can be a place where you host portfolios
+- This app will replace resume's for devs (I wish)
 
 OUT- What will your product not do.
-- 
+- Product will not allow anyone to login to your account and edit your resumes
+- Product will not be able to create custom drawings or characters on interactive page
+- Product will not be able to let users search for other users
+- Product will not replace traditional resumes
 
 ## Minimum Viable Product vs
 
-What will your MVP functionality be?
+MVP functionality includes:
+- Front End built and functional
+- Back End built and functional
+- Able to create a simple interactive resume
+- Able to customize terms and skills in the resume
+- Able to Scroll through webpage and show interactivity
 
-What are your stretch goals?
+Stretch Goals:
+- Add more interactivity
+- Create custom designs to make it more fun
+- Create custom graphics
+- Add character to scroll with webpage
 
 ## Stretch
 
 What stretch goals are you going to aim for?
+- Adding more interactivity to page
+- Adding a character to scroll with the page
 
 ## Functionality Requirements
+
+- Admin can create and delete users
+- User is able to login 
+- User is able to update resumes
+- User is able to scroll through resume and see all added fields
+
+## Non-Functional Requirements
+
+Usability:
+- User Interface (UI) Responsiveness: The application should respond quickly to user interactions, minimizing any perceptible delays.
+- User-Friendly Interface: The application should have a clear, intuitive, and user-friendly interface, making it easy for users to navigate and interact with.
+
+Testability:
+- Testability: The application should be designed and implemented in a way that facilitates testing. This can include modular and loosely coupled components, well-defined interfaces, and the ability to mock or simulate dependencies for testing purposes.
+- Test Data Management: The application should support the management and manipulation of test data, allowing testers to easily set up and maintain test scenarios.
+
 
